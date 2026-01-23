@@ -1,3 +1,4 @@
-<!-- 3D GitHub Contributions -->
+<!-- В README.md -->
+## 📊 My 3D GitHub Activity
+
 ![3D Contributions](https://github-readme-3d-contributions.vercel.app/?username=gface34rus&hide_border=true&theme=react-dark)
-![3D Contributions](https://github-readme-3d-contributions.vercel.app/?username=gface34rus&hide_border=true&theme=react-dark&line_height=100&bg_color=000000&text_color=ffffff)
