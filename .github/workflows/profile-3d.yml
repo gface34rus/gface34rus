@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # Запускать каждый день в 18:00 UTC (03:00 JST)
+    - cron: "0 * * * *"   # Запускать каждый час
   workflow_dispatch:      # Позволяет запускать вручную
 
 permissions:
